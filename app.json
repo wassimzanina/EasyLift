@@ -1,0 +1,26 @@
+{
+  "id": "d5cf2a5b-98b0-49b2-94cc-bf9c7974e4d5",
+  "name": "EasyLift Elevator Maintenance Service",
+  "publisher": "RelateIT",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "EasyLift Elevator Maintenance Services",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "./logo/RelateIT.jpg",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://EasyLift.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}
